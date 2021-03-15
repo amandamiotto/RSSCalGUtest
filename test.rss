@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Griffith University Events Calendar</title>
+        <link>https://app.secure.griffith.edu.au/events</link>
+        <description>Events Calendar - Upcoming events feed for Griffith University</description>
+                  <image>
+             <url>https://app.secure.griffith.edu.au/events/assets/EventImages/e67438-thumb.jpg</url>
+            <title>Griffith University Events Calendar</title>
+            <link>https://app.secure.griffith.edu.au/events</link>
+          </image>
+                  <atom:link href="https://app.secure.griffith.edu.au/events/feed.php" rel="self" type="application/rss+xml" />
+            <item>
+            <title>Performing the Transformative | Athene Currie </title>
+            <pubDate>Tue, 16 Mar 2021 10:00:00 +1000</pubDate>
+            <category>QCA Galleries,Queensland College of Art,Webb Gallery</category>
+            <description>(16 March 2021 - 27 March 2021 04:00 am) Performing the Transformative is an installation of studio outcomes completed in fulfilment of the requirements of Athene Currie&#39;s degree of Doctor of Philosophy.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67438</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67438</guid>
+        </item>
+        <item>
+            <title>Managing your Research Literature</title>
+            <pubDate>Tue, 16 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(16 March 2021 10:00 am - 11:30 am) An online workshop to assist with research literature.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67110</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67110</guid>
+        </item>
+        <item>
+            <title>Digital tools for research</title>
+            <pubDate>Tue, 16 Mar 2021 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(16 March 2021 01:00 pm - 02:30 am) An online workshop to explain the importance of protecting research date.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67057</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67057</guid>
+        </item>
+        <item>
+            <title>Looking at the effectiveness of healthy eating programs in Indigenous communities: using a socio-cognitive lens</title>
+            <pubDate>Wed, 17 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Indigenous Research and Knowledge Seminar Series</category>
+            <description>(17 March 2021 10:00 am - 12:00 pm) First seminar for 2021 in the Indgenous Research &amp; Knowledges series</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67113</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67113</guid>
+        </item>
+        <item>
+            <title>Reproducible Research</title>
+            <pubDate>Wed, 17 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(17 March 2021 10:00 am - 11:30 am) An online seminar about how to identify ways to make your research reproducible and transparent</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67112</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67112</guid>
+        </item>
+        <item>
+            <title>Lime Survey at Griffith</title>
+            <pubDate>Thu, 18 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program,Software Training</category>
+            <description>(18 March 2021 10:00 am - 11:30 am) A self paced module following by a Q&amp;A session.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67114</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67114</guid>
+        </item>
+        <item>
+            <title>Analysis of Survey Data: beyond Chi-squared tests</title>
+            <pubDate>Thu, 18 Mar 2021 12:30:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(18 March 2021 12:30 pm - 03:30 pm) Online workshop about Analysis of Survey Data</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67439</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67439</guid>
+        </item>
+        <item>
+            <title>Mini Symposium: Bayesian statistical modelling in action</title>
+            <pubDate>Tue, 23 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(23 March 2021 10:00 am - 12:30 pm) Am interesting online mini-symposium featuring various speakers presenting on Bayesian Statistical Modelling.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67440</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67440</guid>
+        </item>
+        <item>
+            <title>Building a Road to Recovery; lessons from job loss for employees and employers</title>
+            <pubDate>Tue, 23 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Alumni,Griffith Business School Alumni Network,Professional Development</category>
+            <description>(23 March 2021 10:00 am - 11:00 am) During this webinar, Griffith alumnus and Director of Job Readiness Training, Gordon Scott will explore the topic of handling job loss and redundancy from two perspectives: the newly redundant job seeker and the employer who is faced with having to reduce headcount. Gordon will share tips on how to navigate a road to recovery.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67398</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67398</guid>
+        </item>
+        <item>
+            <title>Educational Leaders Workshop: Developing a Positive School Identity</title>
+            <pubDate>Wed, 24 Mar 2021 16:00:00 +1000</pubDate>
+            <category>Alumni,Professional Development Network,Training/Workshop</category>
+            <description>(24 March 2021 04:00 pm - 06:00 pm) Andrew Peach, Executive Principal, Marsden SHS, will outline the approach he has taken to building the positive perception of his shcool within and beyond his school community. Participants can expect to learn about the use of clear purpose, vision and values statements, and how they can be incorporated into daily school life in your own setting.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67360</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67360</guid>
+        </item>
+        <item>
+            <title>Moving to Bigger Compute Power: How to HPC</title>
+            <pubDate>Thu, 25 Mar 2021 09:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(25 March 2021 09:00 am - 12:00 pm) Two part on-campus workshop about High Performance Computing</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67447</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67447</guid>
+        </item>
+        <item>
+            <title>STEM Ambassador Conference/Showcase</title>
+            <pubDate>Thu, 25 Mar 2021 09:00:00 +1000</pubDate>
+            <category>Conference,Griffith Sciences,Science on the GO!,Training/Workshop</category>
+            <description>(25 March 2021 09:00 am - 03:00 pm) The STEM Ambassador Conference is the premiere event for Griffith Sciences STEM Ambassadors and their teachers. The event will occur on the 25 March 2021 at Parliament House in Brisbane.<br />
+<br />
+This leadership conference gives STEM Ambassadors the opportunity to receive leadership training and plan their school&#39;s individual action plan and strategy. Held during World Science Festival, it inspires students to be STEM leaders on a world stage.<br />
+Ã¢Â€Â‹</description>
+            <link>https://app.secure.griffith.edu.au/events/event/53605</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/53605</guid>
+        </item>
+        <item>
+            <title>Truck &quot;N Shop </title>
+            <pubDate>Thu, 25 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Sport,Student life</category>
+            <description>(25 March 2021 10:00 am - 02:00 pm) Food Trucks &amp; Market stalls<br />
+Lunch Truck Line-Up and Market days are back and ready to serve you all the tasty treats and nifty items you didn&#39;t know you needed. Throw your bland leftovers into the freezer, grab some cash and make the hardest decision of your life between a great line-up of Food Trucks and Market Stalls. Either grab &amp; go - or stay and enjoy the fresh air and live music.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67101</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67101</guid>
+        </item>
+        <item>
+            <title>Truck &quot;N Shop </title>
+            <pubDate>Thu, 25 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Sport,Student life</category>
+            <description>(25 March 2021 10:00 am - 02:00 pm) Food Trucks &amp; Market stalls<br />
+Lunch Truck Line-Up and Market days are back and ready to serve you all the tasty treats and nifty items you didn&#39;t know you needed. Throw your bland leftovers into the freezer, grab some cash and make the hardest decision of your life between a great line-up of Food Trucks and Market Stalls. Either grab &amp; go - or stay and enjoy the fresh air and live music.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67102</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67102</guid>
+        </item>
+        <item>
+            <title>Preparing your literature review</title>
+            <pubDate>Thu, 25 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(25 March 2021 10:00 am - 11:30 am) A session to help early candidature HDRs prepare a literature review</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67117</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67117</guid>
+        </item>
+        <item>
+            <title>Griffith Review at World Science Festival Brisbane</title>
+            <pubDate>Sun, 28 Mar 2021 13:00:00 +1000</pubDate>
+            <category>Other</category>
+            <description>(28 March 2021 01:00 pm - 02:00 pm) How will we change what we do with what we have?<br />
+<br />
+Join Griffith Review at World Science Festival Brisbane!<br />
+<br />
+Editor Ashley Hay, with Ian Lowe, Sophie Cunningham and Jasmin McGaughey, explore the ways in which our changing relationships with resources are altering what we do with all that&#39;s animal, vegetable and mineral - as well as with less tangible commodities such as memory, stories and hope.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67361</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67361</guid>
+        </item>
+        <item>
+            <title>Meta-analysis: statistical concepts from literature review to modelling | Part 1 - Visualising literature reviews</title>
+            <pubDate>Mon, 29 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(29 March 2021 10:00 am - 11:30 am) Online seminar - first of a series of four about Meta-analysis</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67418</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67418</guid>
+        </item>
+        <item>
+            <title>Meta-analysis: statistical concepts from literature review to modelling | Part 2 - Reviewing with a view to meta-analysis - the statistical implications</title>
+            <pubDate>Tue, 30 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(30 March 2021 10:00 am - 11:30 am) Online seminar - second of a series of four about Meta-analysis</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67419</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67419</guid>
+        </item>
+        <item>
+            <title>Well Fair </title>
+            <pubDate>Tue, 30 Mar 2021 11:00:00 +1000</pubDate>
+            <category>Sport,Student life</category>
+            <description>(30 March 2021 11:00 am - 02:00 pm) Look after your health and wellbeing<br />
+Get involved with a series of health and wellbeing activities throughout WellFair Week. Join us on campus or follow along online for all your workshops, competitions and demonstrations - there is something for everyone! Whether you are an artist or yoga fanatic, marathon-man or Netflix junkie, we have you covered.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67097</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67097</guid>
+        </item>
+        <item>
+            <title>An introduction to digital texts and tools for HASS research</title>
+            <pubDate>Wed, 31 Mar 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(31 March 2021 10:00 am - 11:30 am) This online information session introduces digital methods and tools in HASS scholarship and focusses on the following in the Digital Humanities workflow:</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67118</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67118</guid>
+        </item>
+        <item>
+            <title>Publishing during your PhD</title>
+            <pubDate>Wed, 31 Mar 2021 12:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(31 March 2021 12:00 pm - 02:00 pm) Online session about publishing as part of a PhD</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67119</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67119</guid>
+        </item>
+        <item>
+            <title>EndNote training</title>
+            <pubDate>Thu, 01 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program,Software Training</category>
+            <description>(01 April 2021 10:00 am - 11:00 am) Online self-paced tutorial about EndNote with a Q&amp;A session</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67356</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67356</guid>
+        </item>
+        <item>
+            <title>Griffith Sport Nathan Dash</title>
+            <pubDate>Thu, 01 Apr 2021 11:00:00 +1000</pubDate>
+            <category>Sport,Student life</category>
+            <description>(01 April 2021 11:00 am - 02:00 pm) The Griffith Sport Nathan Dash is an annual event open to students and staff. his legacy event comprises of multiple competitor categories and a 660m running course through the heart of Griffith&#39;s Nathan campus.Ã¢Â€Â‹Join us this year on Thursday 1 April, to try your luck at claiming victory</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67235</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67235</guid>
+        </item>
+        <item>
+            <title>Navigating the Publishing Maze for Early Career Researchers</title>
+            <pubDate>Wed, 07 Apr 2021 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(07 April 2021 01:00 pm - 03:00 pm) An online workshop for ECRs providing an overview of academic publishing strategies</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67195</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67195</guid>
+        </item>
+        <item>
+            <title>Systematic style reviews in Health: Building a robust search strategy</title>
+            <pubDate>Thu, 08 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(08 April 2021 10:00 am - 12:00 pm) An online workshop about search techniques for a systematic style review</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67156</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67156</guid>
+        </item>
+        <item>
+            <title>Meta-analysis: statistical concepts from literature review to modelling | Part 3 - Qualitative Literature Reviews - Towards Meta-Analysis</title>
+            <pubDate>Mon, 12 Apr 2021 22:00:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(12 April 2021 10:00 pm - 11:30 am) Part 3 of the series on Meta-Analysis</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67478</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67478</guid>
+        </item>
+        <item>
+            <title>Formatting your thesis</title>
+            <pubDate>Tue, 13 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(13 April 2021 10:00 am - 11:30 am) Self paced module followed by a Q&amp;A session to assist with formatting of a thesis.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67157</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67157</guid>
+        </item>
+        <item>
+            <title>Creating a RIMS coversheet</title>
+            <pubDate>Thu, 15 Apr 2021 12:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(15 April 2021 12:00 pm - 01:00 pm) Online session about the process for submitting a research grant coversheet.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67196</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67196</guid>
+        </item>
+        <item>
+            <title>Copyright Publishing and Open Access Considerations</title>
+            <pubDate>Tue, 20 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(20 April 2021 10:00 am - 11:30 am) An online seminar about Copyright, Publishing and Open Access</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67160</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67160</guid>
+        </item>
+        <item>
+            <title>How to succeed at the ARC Linkage Projects scheme</title>
+            <pubDate>Wed, 21 Apr 2021 12:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(21 April 2021 12:00 pm - 01:30 pm) Session to assist applicants with ARC Linkage Projects scheme</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67357</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67357</guid>
+        </item>
+        <item>
+            <title>Academic Profiles</title>
+            <pubDate>Thu, 22 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(22 April 2021 10:00 am - 11:00 am) An online session to assist with online research profiles.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67158</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67158</guid>
+        </item>
+        <item>
+            <title>Multicultural Week </title>
+            <pubDate>Tue, 27 Apr 2021 12:00:00 +1000</pubDate>
+            <category>Sport,Student life</category>
+            <description>(27 April 2021 12:00 pm - 01:30 pm) Experience and discover a diverse range of cultures<br />
+Multicultural Week provides the opportunity for students to explore and share their love of different cultures. This week is full of opportunities both online and on campus to discover culture through dance, cuisine, calligraphy and many more workshops and demonstrations.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67098</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67098</guid>
+        </item>
+        <item>
+            <title>Introduction to Longitudinal Models</title>
+            <pubDate>Tue, 27 Apr 2021 12:00:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(27 April 2021 12:00 pm - 04:00 pm) Online workshop about Longitudinal Models</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67498</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67498</guid>
+        </item>
+        <item>
+            <title>Pointing the Funny Bone: Blak Comedy and Aboriginal Cultural Perspectives on Humour</title>
+            <pubDate>Wed, 28 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Indigenous Research and Knowledge Seminar Series</category>
+            <description>(28 April 2021 10:00 am - 12:00 pm) Seminar as part of the Indigenous Research and Knowledges Seminar Series</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67444</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67444</guid>
+        </item>
+        <item>
+            <title>Publish or Perish? Multidisciplinary perspectives on what, when, with whom and why</title>
+            <pubDate>Thu, 29 Apr 2021 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(29 April 2021 10:00 am - 12:00 pm) Online publishing workshop</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67446</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67446</guid>
+        </item>
+        <item>
+            <title>Recharge Week T1 </title>
+            <pubDate>Tue, 25 May 2021 10:00:00 +1000</pubDate>
+            <category>Sport,Student life</category>
+            <description>(25 May 2021 10:00 am - 02:00 pm) Relax and recharge before exams<br />
+Welcome to Recharge Week, this week is all about helping you to focus and refresh before those final few days of the Trimester. Whether you&#39;re studying at home or on campus, we have all the tips and tricks you need to prepare for exams and assessments. Check out the range of free activities, workshops and events.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/67096</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/67096</guid>
+        </item>
+    </channel>
+</rss>
+
