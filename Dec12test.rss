@@ -14,15 +14,15 @@
             <title>'Source Materials' Exhibition</title>
             <pubDate>Thu, 02 Dec 2021 11:00:00 +1000</pubDate>
             <category>Arts, Education and Law,Exhibition,Griffith University Art Museum,Queensland College of Art</category>
-            <description>(02 December 2021 - 12 February 2022 04:00 pm) &#39;Source Materials&#39; now showing at the Griffith University Art Museum.</description>
+            <description>(02 December 2021 - 12 February 2022 04:00 pm) 'Source Materials' now showing at the Griffith University Art Museum.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69341</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69341</guid>
         </item>
         <item>
             <title>Explore your Options  </title>
-            <pubDate>Sat, 18 Dec 2021 09:00:00 +1000</pubDate>
+            <pubDate>Thu, 20 Jan 2022 08:00:00 +1000</pubDate>
             <category>Campus life,Careers and Information,Student life,Undergraduate</category>
-            <description>(18 December 2021 09:00 am - 02:00 pm) At Griffith, we&#39;re here to help you get the best result from your result, whatever that may be.<br />
+            <description>(20 January 2022 08:00 am - 02:00 pm) At Griffith, we're here to help you get the best result from your result, whatever that may be.<br />
 Our expert study advisers will be online the day ATAR results are released and in the days following to chat with you one-on-one and help you find the right pathway.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69221</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69221</guid>
@@ -74,7 +74,7 @@ Our expert study advisers will be online the day ATAR results are released and i
             <title>Measuring and showcasing research: scholarly metrics</title>
             <pubDate>Thu, 10 Feb 2022 10:00:00 +1000</pubDate>
             <category>Developing Researcher Training Program</category>
-            <description>(10 February 2022 10:00 am - 12:00 pm) Gain familiarity with tools for measuring research outputs, such as citation metrics, benchmarking and altmetrics. In this two hour seminar we will demonstrate locating and using information to highlight aspects of your track record for a grant or promotion application.</description>
+            <description>(10 February 2022 10:00 am - 12:00 pm) Gain familiarity with tools for measuring research outputs, such as citation metrics and benchmarking. In this two-hour seminar, we demonstrate locating and using citation information to highlight aspects of your track record for grant or promotion applications.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69564</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69564</guid>
         </item>
@@ -95,7 +95,7 @@ Our expert study advisers will be online the day ATAR results are released and i
             <guid>https://app.secure.griffith.edu.au/events/event/69601</guid>
         </item>
         <item>
-            <title>Systematic Quantitative Literature Review (SQLR) &amp; Advancing SQLR</title>
+            <title>Systematic Quantitative Literature Review (SQLR)- Advancing SQLR</title>
             <pubDate>Thu, 17 Feb 2022 10:00:00 +1000</pubDate>
             <category>Methodology Training</category>
             <description>(17 February 2022 10:00 am - 11:30 am) Systematic quantitative literature review is a smart and effective method for undertaking literature reviews, particularly for research students and others exploring new disciplines. It bridges the gap between traditional narrative review methods and meta-analysis. Narrative methods that are common in research theses, rely on the expertise and experience of the author, making them challenging for novices to produce and publish.</description>
@@ -122,7 +122,7 @@ Our expert study advisers will be online the day ATAR results are released and i
             <title>SEM4 - Modelling for Basic pathway models</title>
             <pubDate>Tue, 01 Mar 2022 10:00:00 +1000</pubDate>
             <category>Statistical Training Program</category>
-            <description>(01 March 2022 10:00 am - 01:00 pm) This workshop follows on from &quot;Latent Constructs in SEM&quot;. In this workshop we use a pathway analysis, implemented in R, to relate several variables as well as constructs created via CFA. This includes discussion of what these pathways mean, how they are interpreted, and how to estimate mediation and total effects.</description>
+            <description>(01 March 2022 10:00 am - 01:00 pm) This workshop follows on from 'Latent Constructs in SEM'. In this workshop we use a pathway analysis, implemented in R, to relate several variables as well as constructs created via CFA. This includes discussion of what these pathways mean, how they are interpreted, and how to estimate mediation and total effects.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69603</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69603</guid>
         </item>
@@ -146,7 +146,7 @@ Our expert study advisers will be online the day ATAR results are released and i
             <title>SEM 5 - Mediation and model checking</title>
             <pubDate>Wed, 09 Mar 2022 09:30:00 +1000</pubDate>
             <category>Statistical Training Program</category>
-            <description>(09 March 2022 09:30 am - 03:30 pm) This workshop follows on from &quot;SEM for Basic Pathway Models&quot;. After running a simple pathway analysis using SEM, we provide practical advice on how to detect inadequate model performance via diagnostics, and then suggest some remedies. This includes examining the possibility of extending an SEM to include moderation.</description>
+            <description>(09 March 2022 09:30 am - 03:30 pm) This workshop follows on from 'SEM for Basic Pathway Models'. After running a simple pathway analysis using SEM, we provide practical advice on how to detect inadequate model performance via diagnostics, and then suggest some remedies. This includes examining the possibility of extending an SEM to include moderation.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69623</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69623</guid>
         </item>
@@ -168,6 +168,14 @@ Because of this, there will be very little material presented by the facilitator
             <guid>https://app.secure.griffith.edu.au/events/event/69624</guid>
         </item>
         <item>
+            <title>EndNote Q&A</title>
+            <pubDate>Tue, 15 Mar 2022 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(15 March 2022 10:00 am - 11:00 am) Learn the basics and start using EndNote using the Library's EndNote Basics Tutorial, then register to join the Endnote Q&A live virtual session. Bring your questions and get answers and tips from specialist librarians and other EndNote users.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69661</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69661</guid>
+        </item>
+        <item>
             <title>Managing your research literature </title>
             <pubDate>Wed, 16 Mar 2022 10:00:00 +1000</pubDate>
             <category>Developing Researcher Training Program</category>
@@ -179,7 +187,7 @@ Because of this, there will be very little material presented by the facilitator
             <title>SEM 7 - Questioning SEM</title>
             <pubDate>Wed, 16 Mar 2022 11:30:00 +1000</pubDate>
             <category>Statistical Training Program</category>
-            <description>(16 March 2022 11:30 am - 02:30 pm) Do you have questions about the meaning of SEM, compared to other options available? Do you wish to refine your understanding of SEM issues, so that you can better interpret &amp; critically assess research in your field that uses SEM? Then this workshop is for you!</description>
+            <description>(16 March 2022 11:30 am - 02:30 pm) Do you have questions about the meaning of SEM, compared to other options available? Do you wish to refine your understanding of SEM issues, so that you can better interpret critically assess research in your field that uses SEM? Then this workshop is for you!</description>
             <link>https://app.secure.griffith.edu.au/events/event/69625</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69625</guid>
         </item>
@@ -190,6 +198,38 @@ Because of this, there will be very little material presented by the facilitator
             <description>(17 March 2022 10:00 am - 11:30 am) Become familiar with a wide range of digital tools available to assist you throughout your research journey.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69605</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69605</guid>
+        </item>
+        <item>
+            <title>Creating a Rims Coversheet</title>
+            <pubDate>Thu, 17 Mar 2022 12:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(17 March 2022 12:00 pm - 01:00 pm) This is a practical session that steps you through the process for submitting a research grant coversheet in Griffith's Research Information Management System (RIMS), an essential step in the process of submitting a grant application and establishing a new successful project.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69698</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69698</guid>
+        </item>
+        <item>
+            <title>Researcher Profiles: Publons</title>
+            <pubDate>Tue, 22 Mar 2022 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(22 March 2022 01:00 pm - 01:45 pm) Researcher profiles are online identity tools that make it easy for funders, collaborators, and colleagues to find you. Researcher profiles also ensure your work is properly attributed, removing author ambiguity so that you can showcase your track record.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69697</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69697</guid>
+        </item>
+        <item>
+            <title>Methods versus Methodology in research</title>
+            <pubDate>Thu, 24 Mar 2022 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(24 March 2022 10:00 am - 11:00 am) Learn the difference between the methods section and/or the methodology section when writing your research documents. On completion of this workshop participants should be able to:  -  distinguish between research methods and methodologies  -  include the relevant information when writing the methodology section for their research proposal</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69642</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69642</guid>
+        </item>
+        <item>
+            <title>Excellent Graphics in R</title>
+            <pubDate>Mon, 28 Mar 2022 10:30:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(28 March 2022 10:30 am - 01:30 pm) This workshop complements other resources that focus on "How do I make this graph in R?", e.g. workshops that focus on programming in R, and the fantastic online help. Rather, this workshop addresses "How can I use R to create 'excellent graphics?'"</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69721</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69721</guid>
         </item>
         <item>
             <title>Writing the Literature Review</title>
@@ -203,9 +243,25 @@ Because of this, there will be very little material presented by the facilitator
             <title>Introduction to REDCap at Griffith</title>
             <pubDate>Thu, 31 Mar 2022 10:00:00 +1000</pubDate>
             <category>Developing Researcher Training Program</category>
-            <description>(31 March 2022 10:00 am - 11:30 am) Learn how to build and deploy projects in REDCap (REsearch Data CAPture), one of Griffith&#39;s supported research survey tools. See how REDCap compares with LimeSurvey, Griffith&#39;s other supported survey solution.</description>
+            <description>(31 March 2022 10:00 am - 11:30 am) Learn how to build and deploy projects in REDCap (REsearch Data CAPture), one of Griffith's supported research survey tools. See how REDCap compares with LimeSurvey, Griffith's other supported survey solution.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69643</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69643</guid>
+        </item>
+        <item>
+            <title>Taming ggplot Graphics in R</title>
+            <pubDate>Mon, 04 Apr 2022 10:30:00 +1000</pubDate>
+            <category>Statistical Training Program</category>
+            <description>(04 April 2022 10:30 am - 01:30 pm) This workshop builds on the previous one (Excellent Graphics in R), which showed how ggplot supports Tufte's principles of excellence, for visualising data. Underlying ggplot is a Grammar of Graphics, a powerful framework for drawing all kinds of graphs.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69741</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69741</guid>
+        </item>
+        <item>
+            <title>Moving to Bigger Compute Power - How to HPC</title>
+            <pubDate>Tue, 05 Apr 2022 10:00:00 +1000</pubDate>
+            <category>Software Training</category>
+            <description>(05 April 2022 10:00 am - 03:00 pm) This workshop will introduce the fundamentals needed to use Griffith';s HPC, including the basic bash and PBS scheduler syntax. By the end of this session you will know how to load data and R or python scripts and execute them.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69685</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69685</guid>
         </item>
         <item>
             <title>External Research Datasets</title>
@@ -216,12 +272,95 @@ Because of this, there will be very little material presented by the facilitator
             <guid>https://app.secure.griffith.edu.au/events/event/69644</guid>
         </item>
         <item>
+            <title>Conveying your argument in academic writing </title>
+            <pubDate>Wed, 06 Apr 2022 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(06 April 2022 10:00 am - 11:30 am) Develop a clear argument in your writing as well as identifying arguments in the writing of others.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69683</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69683</guid>
+        </item>
+        <item>
+            <title>Data Visualisation Basics</title>
+            <pubDate>Thu, 07 Apr 2022 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(07 April 2022 10:00 am - 11:30 am) Explore methods and tools to create publication quality visualisations of structured, tabular data. Tools covered include MS Excel, along with open-source software Voyant and Raw Graphs.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69690</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69690</guid>
+        </item>
+        <item>
+            <title>Formatting your Thesis</title>
+            <pubDate>Thu, 07 Apr 2022 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(07 April 2022 01:00 pm - 02:00 pm) This online session will give participants the opportunity to ask any questions they may have after going through the resource that is provided upon registration. This resource contains video lessons on how to use Microsoft Word's automated settings and features to apply consistent formatting throughout a document and manage long documents efficiently.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69695</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69695</guid>
+        </item>
+        <item>
+            <title>Introduction to Python</title>
+            <pubDate>Tue, 12 Apr 2022 09:00:00 +1000</pubDate>
+            <category>Software Training</category>
+            <description>(12 April 2022 - 14 April 2022 05:00 pm) This workshop is at an introductory level, for those who have never programmed before. No prior knowledge is needed. These classes are open to any researcher, research students and general staff members.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69693</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69693</guid>
+        </item>
+        <item>
+            <title>Introduction to Data wrangling with OpenRefine</title>
+            <pubDate>Tue, 12 Apr 2022 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(12 April 2022 10:00 am - 12:00 pm) Data wrangling prepares raw or messy data and transforms or maps it into a structured and organised format to enable processing and analysis.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69701</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69701</guid>
+        </item>
+        <item>
+            <title>EndNote Q&A</title>
+            <pubDate>Wed, 13 Apr 2022 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(13 April 2022 01:00 pm - 02:00 pm) Learn the basics and start using EndNote using the Library's EndNote Basics Tutorial, then register to join the Endnote Q&A live virtual session. Bring your questions and get answers and tips from specialist librarians and other EndNote users.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69662</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69662</guid>
+        </item>
+        <item>
+            <title>Webscraping </title>
+            <pubDate>Tue, 19 Apr 2022 09:00:00 +1000</pubDate>
+            <category>Software Training</category>
+            <description>(19 April 2022 09:00 am - 01:00 pm) This is a workshop that introduces web scraping, the legal and ethical concerns around web scraping and a practical session using API's and Python packages to scrape web data.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69686</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69686</guid>
+        </item>
+        <item>
+            <title>Copyright, Publishing and Open Access Considerations </title>
+            <pubDate>Wed, 20 Apr 2022 13:30:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(20 April 2022 01:30 pm - 03:00 pm) The seminar will examine copyright, publishing and open access considerations across all research disciplines.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69664</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69664</guid>
+        </item>
+        <item>
             <title>Managing your research literature </title>
             <pubDate>Wed, 04 May 2022 13:00:00 +1000</pubDate>
             <category>Developing Researcher Training Program</category>
             <description>(04 May 2022 01:00 pm - 02:30 pm) Discover strategies and tools that researchers can use to identify and make sense of themes in the research literature, as well as to manage and organise references and research material.</description>
             <link>https://app.secure.griffith.edu.au/events/event/69604</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69604</guid>
+        </item>
+        <item>
+            <title>Improving the tone and style of your academic writing</title>
+            <pubDate>Thu, 05 May 2022 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(05 May 2022 01:00 pm - 02:00 pm) Gather strategies to develop your academic writing skills and compose text that has academic tone, style and clarity for the reader. On completion of this workshop, participants should be able to:<br />
+- draw on a range of strategies to improve the clarity of their writing<br />
+- make use of feedback to revise and edit written text<br />
+- communicate ideas and information appropriately for the intended audience/s</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69694</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69694</guid>
+        </item>
+        <item>
+            <title>EndNote Q&A</title>
+            <pubDate>Wed, 11 May 2022 10:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(11 May 2022 10:00 am - 11:00 am) Learn the basics and start using EndNote using the Library's EndNote Basics Tutorial, then register to join the Endnote Q'A live virtual session. Bring your questions and get answers and tips from specialist librarians and other EndNote users.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69681</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69681</guid>
         </item>
         <item>
             <title>Systematic style reviews: Tips and tools for getting from start to finish </title>
@@ -240,6 +379,23 @@ Because of this, there will be very little material presented by the facilitator
             <guid>https://app.secure.griffith.edu.au/events/event/69606</guid>
         </item>
         <item>
+            <title>Measuring and showcasing research: scholarly metrics</title>
+            <pubDate>Tue, 17 May 2022 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(17 May 2022 01:00 pm - 03:00 pm) Gain familiarity with tools for measuring research outputs, such as citation metrics and benchmarking. In this two-hour seminar, we demonstrate locating and using citation information to highlight aspects of your track record for grant or promotion applications.<br />
+ </description>
+            <link>https://app.secure.griffith.edu.au/events/event/69687</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69687</guid>
+        </item>
+        <item>
+            <title>Literature search strategies for Systematic Quantitative Literature Reviews: how to find papers and where to look</title>
+            <pubDate>Thu, 19 May 2022 13:00:00 +1000</pubDate>
+            <category>Developing Researcher Training Program</category>
+            <description>(19 May 2022 01:00 pm - 02:30 pm) In this workshop we will work through the steps to undertake the literature research necessary for your systematic quantitative literature review.</description>
+            <link>https://app.secure.griffith.edu.au/events/event/69689</link>
+            <guid>https://app.secure.griffith.edu.au/events/event/69689</guid>
+        </item>
+        <item>
             <title>Writing the Literature Review</title>
             <pubDate>Tue, 24 May 2022 13:00:00 +1000</pubDate>
             <category>Developing Researcher Training Program</category>
@@ -247,31 +403,6 @@ Because of this, there will be very little material presented by the facilitator
             <link>https://app.secure.griffith.edu.au/events/event/69609</link>
             <guid>https://app.secure.griffith.edu.au/events/event/69609</guid>
         </item>
-        <item>
-            <title>Introduction to REDCap at Griffith</title>
-            <pubDate>Wed, 25 May 2022 13:00:00 +1000</pubDate>
-            <category>Developing Researcher Training Program</category>
-            <description>(25 May 2022 01:00 pm - 02:30 pm) Learn how to build and deploy projects in REDCap (REsearch Data CAPture), one of Griffith&#39;s supported research survey tools. See how REDCap compares with LimeSurvey, Griffith&#39;s other supported survey solution.</description>
-            <link>https://app.secure.griffith.edu.au/events/event/69607</link>
-            <guid>https://app.secure.griffith.edu.au/events/event/69607</guid>
-        </item>
-        <item>
-            <title>Organisation and Evaluation of resources for SQLR</title>
-            <pubDate>Wed, 01 Jun 2022 13:00:00 +1000</pubDate>
-            <category>Developing Researcher Training Program</category>
-            <description>(01 June 2022 01:00 pm - 02:30 pm) In this work shop we will organise the papers you have found for your literature review and then discuss means to evaluate these resources for a Systematic style literature review. On completion of this workshop participants should: - organised references in reference manager of choice - have evaluation procedures in place for literature inclusion/exclusion - have a basic quantitive criteria set for the review</description>
-            <link>https://app.secure.griffith.edu.au/events/event/69627</link>
-            <guid>https://app.secure.griffith.edu.au/events/event/69627</guid>
-        </item>
-        <item>
-            <title>Systematic style reviews in Health: Building a robust search strategy</title>
-            <pubDate>Wed, 08 Jun 2022 13:00:00 +1000</pubDate>
-            <category>Developing Researcher Training Program</category>
-            <description>(08 June 2022 01:00 pm - 03:00 pm) Your library specialists will demonstrate expert search techniques using an example systematic review research question, for you to later apply to your own review search strategy. You will learn to use these techniques through demonstrations and discussions. The workshop will include topics like search concepts and synonyms, adjacency searching, subject headings (MeSH) and more.</description>
-            <link>https://app.secure.griffith.edu.au/events/event/69602</link>
-            <guid>https://app.secure.griffith.edu.au/events/event/69602</guid>
-        </item>
     </channel>
 </rss>
-
 
